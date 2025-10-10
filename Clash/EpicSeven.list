@@ -55,3 +55,10 @@ DOMAIN-SUFFIX,shweet.icu
 DOMAIN-KEYWORD,aidis-games
 DOMAIN-SUFFIX,*.aidis-games.com
 DOMAIN-SUFFIX,*shweet.icu
+
+#reverse1999
+DOMAIN-KEYWORD,sl96
+DOMAIN-KEYWORD,bluepoch
+DOMAIN-KEYWORD,appsflyersdk
+DOMAIN-SUFFIX,*.sl96.com
+DOMAIN-SUFFIX,*.listdl.com
