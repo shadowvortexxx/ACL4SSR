@@ -63,3 +63,9 @@ DOMAIN-KEYWORD,bluepoch
 DOMAIN-KEYWORD,appsflyersdk
 DOMAIN-SUFFIX,*.sl96.com
 DOMAIN-SUFFIX,*.listdl.com
+
+#PathToNowhere
+DOMAIN-KEYWORD,shziyi
+DOMAIN-KEYWORD,pagegames
+DOMAIN-SUFFIX,*.shziyi.com
+DOMAIN-SUFFIX,*.pagegames.com
