@@ -8,11 +8,8 @@ payload:
   # 本地/局域网地址
   - DOMAIN-SUFFIX,ip6-localhost
   - DOMAIN-SUFFIX,ip6-loopback
-<<<<<<< HEAD
-=======
   - DOMAIN-SUFFIX,internal
   - DOMAIN-SUFFIX,lan
->>>>>>> upstream/master
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localhost
   - DOMAIN-SUFFIX,lan
